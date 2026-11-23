@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "micode-mwsybtl6-ulugmn7",
+  "runId": "45132308083",
+  "runAttempt": 1,
+  "status": "starting",
+  "tunnelUrl": null,
+  "handoffAt": "2026-11-23T12:06:22.473Z",
+  "updatedAt": "2026-11-23T07:36:22.842Z",
+  "agentBranch": "micode/agent/micode-mwsybtl6-ulugmn7",
+  "repository": "Francis261/httpsms"
+}
