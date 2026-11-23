@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "micode-mwsybtl6-ulugmn7",
+  "runId": "45132308083",
+  "runAttempt": 1,
+  "status": "handoff-ready",
+  "startedAt": "2026-11-23T07:36:22.473Z",
+  "handoffAt": "2026-11-23T12:06:22.473Z",
+  "updatedAt": "2026-11-23T12:06:22.567Z",
+  "lastCommit": "3d618475f26ad950e25824a50870765973fd4762",
+  "reason": "scheduled-handoff"
+}
